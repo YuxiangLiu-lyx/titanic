@@ -1,6 +1,6 @@
 # titanic
-This is a first try on Taggle.
-I try a simple task on Taggle called Titanic - Machine Learning from Disaster and the website is https://www.kaggle.com/c/titanic/data
+This is a first try on Kaggle.
+I try a simple task on Kaggle called Titanic - Machine Learning from Disaster and the website is https://www.kaggle.com/c/titanic/data
 Since the data is tabular, I choose XGB for the classification prediction.
 
 predict_simple_use_xgb:
